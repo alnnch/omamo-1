@@ -7,7 +7,7 @@
 
 
 
-OMAMO is a tool that suggests the best model organism to study a biological process based on orthologous relationship between a species and human. 
+OMAMO is a tool that suggests the best model organism to study a biological process based on orthologous relationships between a species and human. 
 
 The user can consider several species as potential model organisms and the algorithm will rank them and report the output for a given biological process (searched as a GO term or a GO ID) is produced in the dataframe format.
 
